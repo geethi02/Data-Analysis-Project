@@ -6,3 +6,8 @@ Tools: Python, Pandas, Matplotlib, Facebook Prophet
 • Built a time-series forecasting model using Facebook Prophet.
 • Generated future forecasts to analyze potential trends and patterns.
 • Visualized historical and forecasted data to support data-driven insights.
+
+
+## Dataset
+The dataset used in this project is too large to upload to GitHub.
+You can download it from: https://ourworldindata.org/coronavirus
