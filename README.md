@@ -3,8 +3,14 @@
 This repository contains a collection of end-to-end data analysis and machine learning projects developed using real-world datasets.
 Each project focuses on extracting insights, building models, and creating interactive dashboards to support data-driven decision making.
 
+
+
 📁 Projects Overview
-☕ Coffee Shop Sales Analysis Dashboard
+
+
+
+#1
+☕COFFEE SHOP SALES ANALYSIS DASHBOARD
 
 Tools: Power BI, MySQL, SQL, DAX
 
@@ -20,7 +26,9 @@ Designed interactive dashboards to support data-driven business decisions.
 
 📂 Folder: Coffee_Shop_Sales_Analysis/
 
-🛒 Blinkit Sales Analysis Dashboard
+
+#2
+🛒 BLINKIT SALES ANALYSIS DASHBOARD
 
 Tools: Power BI, Python (Jupyter Notebook), DAX
 
@@ -36,7 +44,9 @@ Designed dynamic filters and visuals to enable data-driven business insights.
 
 📂 Folder: Blinkit_Sales_Analysis/
 
-🔄 Customer Churn Prediction Using Machine Learning
+
+#3
+🔄 CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
 
 Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
@@ -52,7 +62,9 @@ Predicted customer churn to support customer retention strategies.
 
 📂 Folder: Customer_Churn_Prediction/
 
-📈 COVID-19 Trend Analysis and Forecasting
+
+#4
+📈 COVID-19 TREND ANALYSIS AND FORECASTING 
 
 Tools: Python, Pandas, Matplotlib, Facebook Prophet
 
@@ -68,23 +80,44 @@ Visualized historical and forecasted data to support data-driven insights.
 
 📂 Folder: COVID19_Trend_Forecasting/
 
+
+
+#5
+📊 ONLINE COURSE COST ESTIMATION 
+
+This project focuses on analyzing and estimating the optimal pricing of online courses using a data-driven approach. It combines market research, survey analysis, dashboard visualization, and machine learning to identify key pricing factors and predict the best course cost.
+
+Tools: Python, Pandas, NumPy, Power BI / Tableau, Scikit-learn
+
+Conducted a comprehensive literature review to understand current trends and pricing strategies in the online education market.
+Defined structured criteria for selecting and evaluating online courses for cost estimation.
+Designed and conducted an online survey to identify key features influencing course pricing such as duration, content quality, certification, and platform.
+Performed data cleaning, preprocessing, and analysis to identify relationships between course features and pricing.
+Created three interactive dashboards:
+Student Dashboard – focuses on learner preferences and expectations
+Professional Dashboard – highlights industry-oriented needs and features
+Common Dashboard – presents overall trends and comparisons
+Built a machine learning model to predict the optimal course price based on selected features.
+
+📂 Folder: online-course-cost-estimation/
+
+
+
+
 🧠 Skills Demonstrated
-
 Data Cleaning & Preprocessing
-
 Exploratory Data Analysis (EDA)
-
+Survey Data Analysis
 SQL & Database Analysis
-
 Power BI Dashboard Development
-
 DAX Measures & KPIs
-
-Machine Learning Models
-
+Data Visualization & Dashboard Development
+Feature Selection & Analysis
+Machine Learning for Regression
 Time Series Forecasting
+Business Insights & Decision Support
 
-Data Visualization & Business Insights
+
 
 📌 About
 
