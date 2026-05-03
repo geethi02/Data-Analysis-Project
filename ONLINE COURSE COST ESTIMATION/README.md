@@ -1,4 +1,5 @@
 📊 ONLINE COURSE COST ESTIMATION
+***********************************
 
 This project focuses on analyzing and estimating the optimal pricing of online courses using a data-driven approach. It combines market research, survey analysis, dashboard visualization, and machine learning to identify key pricing factors and predict the best course cost.
 
