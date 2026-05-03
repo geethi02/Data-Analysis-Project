@@ -4,14 +4,14 @@ This repository contains a collection of end-to-end data analysis and machine le
 Each project focuses on extracting insights, building models, and creating interactive dashboards to support data-driven decision making.
 
 
-
+************************
 📁 Projects Overview
-
+************************
 
 
 #1
 ☕COFFEE SHOP SALES ANALYSIS DASHBOARD
-
+****************************************
 Tools: Power BI, MySQL, SQL, DAX
 
 Developed an end-to-end sales analysis dashboard using Power BI with data sourced from MySQL.
@@ -29,6 +29,7 @@ Designed interactive dashboards to support data-driven business decisions.
 
 #2
 🛒 BLINKIT SALES ANALYSIS DASHBOARD
+************************************
 
 Tools: Power BI, Python (Jupyter Notebook), DAX
 
@@ -47,6 +48,7 @@ Designed dynamic filters and visuals to enable data-driven business insights.
 
 #3
 🔄 CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
+***************************************************
 
 Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
@@ -65,6 +67,7 @@ Predicted customer churn to support customer retention strategies.
 
 #4
 📈 COVID-19 TREND ANALYSIS AND FORECASTING 
+*******************************************
 
 Tools: Python, Pandas, Matplotlib, Facebook Prophet
 
@@ -84,6 +87,7 @@ Visualized historical and forecasted data to support data-driven insights.
 
 #5
 📊 ONLINE COURSE COST ESTIMATION 
+*********************************
 
 This project focuses on analyzing and estimating the optimal pricing of online courses using a data-driven approach. It combines market research, survey analysis, dashboard visualization, and machine learning to identify key pricing factors and predict the best course cost.
 
@@ -104,19 +108,45 @@ Built a machine learning model to predict the optimal course price based on sele
 
 
 
-🧠 Skills Demonstrated
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Survey Data Analysis
-SQL & Database Analysis
-Power BI Dashboard Development
-DAX Measures & KPIs
-Data Visualization & Dashboard Development
-Feature Selection & Analysis
-Machine Learning for Regression
-Time Series Forecasting
-Business Insights & Decision Support
 
+#6
+🚀 AUTONOMOUS MULTIAGENT RESEARCH AND DECISION SYSTEM (AMARDS)
+***************************************************************
+
+AMARDS is an advanced Agentic AI system that simulates a team of intelligent agents working collaboratively to solve complex problems.
+
+Unlike traditional AI systems that generate direct responses, AMARDS follows a multi-step reasoning pipeline where different specialized agents handle planning, research, analysis, validation, and response generation.
+
+This project demonstrates the core principles of Agentic AI, including:
+
+Task decomposition
+Multi-agent collaboration
+Iterative reasoning
+Self-critique and refinement
+Tool integration (web search)
+🧠 What This Project Does
+
+Given any user query, the system:
+
+Breaks it into structured steps
+Collects relevant information from the web
+Analyzes and reasons over the data
+Critically evaluates the output
+Produces a refined, user-friendly final response
+🏗️ System Architecture
+User Input
+   ↓
+🧾 Planner Agent
+   ↓
+🔍 Research Agent
+   ↓
+🧠 Reasoning Agent
+   ↓
+✅ Critic Agent
+   ↓
+🗣️ Response Agent
+   ↓
+Final Answer
 
 
 📌 About
